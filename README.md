@@ -4,5 +4,6 @@
 * cd minimal-react-webpack-babel-setup
 * npm install
 * npm start
+* visit `http://localhost:8080/`
 
-Read more: [Minimal Setup Tutorial](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)
+Read: [The Minimal React Webpack Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)

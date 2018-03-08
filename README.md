@@ -7,7 +7,7 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 ## Features
 
 * React 16
-* Webpack 3
+* Webpack 4
 * Babel
 * Staging ES Next Features
 * Hot Module Replacement

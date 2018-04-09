@@ -1,10 +1,1 @@
-{
-  "presets": [
-    "env",
-    "react",
-    "stage-2"
-  ],
-  "plugins": [
-    "babel-plugin-jsx-remove-data-test-id"
-  ]
-}
+{}

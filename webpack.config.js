@@ -61,6 +61,16 @@ const babelCconfig = {
     }
 };
 
+
+/*
+* You can remove env.production.plugins and uncomment these lines - there is no diff in code
+*/
+/*
+if (process.env.NODE_ENV === 'production') {
+    babelCconfig.plugins.push('jsx-remove-data-test-id');
+}
+*/
+
 const config = {
     mode: 'production',
   entry: [
@@ -96,9 +106,5 @@ const config = {
     hot: true
   }
 };
-
-if (process.env.NODE_ENV === 'production') {
-    config.plugins.push('jsx-remove-data-test-id');
-}
 
 module.exports = config;

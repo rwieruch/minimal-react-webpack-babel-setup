@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
+    "build": "webpack --config ./webpack.prod.config.js --mode production",
     "test": "echo \"No test specified\" && exit 0"
   },
   "keywords": [],
@@ -18,7 +19,8 @@
     "react-hot-loader": "^4.3.11",
     "webpack": "^4.23.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.10"
+    "webpack-dev-server": "^3.1.10",
+    "uglifyjs-webpack-plugin": "2.1.1"
   },
   "dependencies": {
     "react": "^16.6.0",

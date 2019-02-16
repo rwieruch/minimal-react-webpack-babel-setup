@@ -18,3 +18,7 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 * npm install
 * npm start
 * visit `http://localhost:8080/`
+
+## Going live
+
+Once you are done with your app run `npm build`. This will generate a production ready bundle in the `dist` folder.

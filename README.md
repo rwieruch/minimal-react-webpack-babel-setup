@@ -12,7 +12,10 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 * Webpack 4
 * Babel 7
 * Hot Module Replacement
-* Optional: ESLint ([Tutorial](https://www.robinwieruch.de/react-eslint-webpack-babel/))
+
+## Extensions
+
+* [ESLint Tutorial](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
 ## Installation
 

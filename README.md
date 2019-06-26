@@ -17,6 +17,10 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 
 * [ESLint Tutorial](https://www.robinwieruch.de/react-eslint-webpack-babel/)
 
+## Alternatives
+
+* [Advanced React Webpack Babel Setup](https://github.com/rwieruch/advanced-react-webpack-babel-setup)
+
 ## Installation
 
 * `git clone git@github.com:rwieruch/minimal-react-webpack-babel-setup.git`

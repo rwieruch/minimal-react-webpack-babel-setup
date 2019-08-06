@@ -16,8 +16,9 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 ## DIY Add-Ons
 
 * [ESLint](https://www.robinwieruch.de/react-eslint-webpack-babel/)
-* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
 * [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
+* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
+* [Images Support](https://www.robinwieruch.de/webpack-images/)
 
 ## Alternatives
 

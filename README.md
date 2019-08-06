@@ -13,9 +13,11 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 * Babel 7
 * Hot Module Replacement
 
-## Extensions
+## DIY Add-Ons
 
-* [ESLint Tutorial](https://www.robinwieruch.de/react-eslint-webpack-babel/)
+* [ESLint](https://www.robinwieruch.de/react-eslint-webpack-babel/)
+* [Fonts Support](https://www.robinwieruch.de/webpack-font/)
+* [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
 
 ## Alternatives
 

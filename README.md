@@ -16,13 +16,14 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 ## DIY Add-Ons
 
 * [ESLint](https://www.robinwieruch.de/react-eslint-webpack-babel/)
+* [CSS Modules](https://www.robinwieruch.de/react-css-modules/)
 * [SVG Icons](https://www.robinwieruch.de/react-svg-icon-components/)
 * [Fonts Support](https://www.robinwieruch.de/webpack-font/)
 * [Images Support](https://www.robinwieruch.de/webpack-images/)
 
 ## Alternatives
 
-* [Advanced React Webpack Babel Setup](https://github.com/rwieruch/advanced-react-webpack-babel-setup)
+* [Advanced React Webpack Babel Setup](https://github.com/rwieruch/advanced-react-webpack-babel-setup) via this [tutorial](https://www.robinwieruch.de/webpack-advanced-setup-tutorial)
 
 ## Installation
 

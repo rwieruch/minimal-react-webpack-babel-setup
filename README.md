@@ -23,7 +23,7 @@ Read how to set it up yourself: [React with Webpack Tutorial](https://www.robinw
 
 ## Alternatives
 
-* [Advanced React Webpack Babel Setup](https://github.com/rwieruch/advanced-react-webpack-babel-setup) via this [tutorial](https://www.robinwieruch.de/webpack-advanced-setup-tutorial)
+* [Advanced React Webpack Babel Setup](https://github.com/rwieruch/advanced-react-webpack-babel-setup) via this [Tutorial](https://www.robinwieruch.de/webpack-advanced-setup-tutorial)
 
 ## Installation
 
